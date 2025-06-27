@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
-    "build": "echo 'No build needed for serverless functions'",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:env": "node tests/env-test.js",
